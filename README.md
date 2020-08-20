@@ -18,7 +18,7 @@ Hello, World\!
 
 \>node HelloWorld.js
 
-Hello, World!
+Hello, World\!
 
 
 \>start chrome
