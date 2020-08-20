@@ -20,6 +20,10 @@ Hello, World\!
 Hello, World!
 
 
-\>HelloWorld.html
+\>start chrome
+
+\>start chrome HelloWorld.html
+
+\>start chrome HelloWorld.md
 
 
