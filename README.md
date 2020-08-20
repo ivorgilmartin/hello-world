@@ -4,9 +4,10 @@ My first repository on GitHub
 
 I love :coffee: :pizza:, and :dancer:.
 
-Installed JDK, JRE, Node.js, and a Google Chrome.
+Installed JDK, JRE, Node.js, and Google Chrome.
 
-cmd navigate to directory containing HelloWorld files.
+Windows 10 cmd navigate to directory containing HelloWorld files.
+
 
 \>javac HelloWorld.java
 
