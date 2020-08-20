@@ -8,18 +8,18 @@ Installed JDK, JRE, Node.js, and a browser.
 
 cmd navigate to directory containing HelloWorld files.
 
-:>javac HelloWorld.java
+\>javac HelloWorld.java
 
-:>java HelloWorld
+\>java HelloWorld
+
+Hello, World\!
+
+
+\>node HelloWorld.js
 
 Hello, World!
 
 
-:>node HelloWorld.js
-
-Hello, World!
-
-
-:>HelloWorld.html
+\>HelloWorld.html
 
 
