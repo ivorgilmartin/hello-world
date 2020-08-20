@@ -6,20 +6,20 @@ I love :coffee: :pizza:, and :dancer:.
 
 Installed JDK, JRE, Node.js, and a browser.
 
-cmd navigate to directory containing HelloWorld files..
+cmd navigate to directory containing HelloWorld files.
 
->javac HelloWorld.java
+:>:javac HelloWorld.java
 
->java HelloWorld
-
-Hello, World!
-
-
->node HelloWorld.js
+:>:java HelloWorld
 
 Hello, World!
 
 
->HelloWorld.html
+:>:node HelloWorld.js
+
+Hello, World!
+
+
+:>:HelloWorld.html
 
 
