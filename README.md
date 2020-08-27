@@ -23,9 +23,7 @@ Hello, World\!
 Hello, World\!
 
 
-\>start chrome
+\>start chrome <absolute path\>HelloWorld.html
 
-\>start chrome HelloWorld.html
-
-\>start chrome HelloWorld.md
+\>start chrome <absolute path\>HelloWorld.md
 
