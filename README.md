@@ -4,31 +4,30 @@ My first repository on GitHub
 
 I love :coffee: :pizza:, and :dancer:.
 
-Starting at the start. GitHub docs, files, and cmd.
+Starting at the start. GitHub docs, Git, files, and cmd.
 
 Installed JDK, JRE, Node.js, and Google Chrome with Markdown Viewer extension.
 
 Windows 10 cmd navigate to directory containing HelloWorld files.
 
+```cmd
+>javac HelloWorld.java
 
-\>javac HelloWorld.java
+>java HelloWorld
 
-\>java HelloWorld
+Hello, World!
 
-Hello, World\!
+>node HelloWorld.js
 
+Hello, World!
 
-\>node HelloWorld.js
+>start chrome <absolute path> HelloWorld.html
 
-Hello, World\!
+>start chrome <absolute path> HelloWorld.md
 
+> cd HelloWorld
 
-\>start chrome <absolute path\>HelloWorld.html
+> HelloWorld.txt
 
-\>start chrome <absolute path\>HelloWorld.md
-
-
-\> cd HelloWorld
-
-\> HelloWorld.txt
+```
 
