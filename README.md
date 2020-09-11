@@ -25,8 +25,6 @@ Hello, World!
 
 >start chrome <absolute path> HelloWorld.md
 
-> cd HelloWorld
-
 > HelloWorld.txt
 
 ```
