@@ -6,7 +6,7 @@ I love :coffee: :pizza:, and :dancer:.
 
 Starting at the start. GitHub docs, Git, files, and cmd.
 
-Installed JDK, JRE, Node.js, and Google Chrome with Markdown Viewer extension.
+Installed JDK, Node.js, and Google Chrome with Markdown Viewer extension.
 
 Windows 10 cmd navigate to directory containing HelloWorld files.
 
