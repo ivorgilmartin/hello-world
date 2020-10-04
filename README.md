@@ -21,11 +21,13 @@ Hello, World!
 
 Hello, World!
 
->start chrome <absolute path> HelloWorld.html
+>HelloWorld.html
 
 >start chrome <absolute path> HelloWorld.md
 
-> HelloWorld.txt
+>HelloWorld.txt
+
+>HelloWorld.pdf
 
 ```
 
